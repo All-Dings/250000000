@@ -1,2 +1,1 @@
-#!/bin/perl
 ## Perl-Basics
